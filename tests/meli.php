@@ -6,10 +6,10 @@ class InitSDKTest extends PHPUnit_Framework_TestCase
 
 	protected static $meli;
 
-	protected $client_id = '123';
+	protected $client_id = '2798433908353163';
     protected $client_secret = 'a secret';
     protected $redirect_uri = 'a redirect_uri';
-    protected $access_token = 'a access_token';
+    protected $access_token = 'APP_USR-2798433908353163-021314-d1f8614519e76b82da8fb8749b788f99-525117839';
     protected $refresh_token = 'a refresh_token';
 
     public function setUp() {
